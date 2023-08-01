@@ -19,7 +19,7 @@ variables:
   imagePullSecret: 'clusters2774705e-auth'
 
   # Agent VM image name
-  vmImageName: 'selfhosted'
+  vmImageName: 'myagent'
 
 
 stages:
