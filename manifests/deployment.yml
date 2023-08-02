@@ -16,4 +16,4 @@ spec:
         - name: bathiniarundotnetarun 
           image: acrnaga.azurecr.io/nagendraazurepipeline:latest
           ports:
-          - containerPort: 8080
+          - containerPort: 5000
